@@ -1,5 +1,5 @@
-# MCJarFiles
-Minecraft Server Jar Archives <br>
+# McServerJarFiles
+Minecraft Server Jar Files <br>
 Since the official sources for Minecraft server files are terrible, I’m sharing my cloud drive with the .jar files.
 
 <hr>
