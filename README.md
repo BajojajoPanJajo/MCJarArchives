@@ -43,3 +43,8 @@ Since the official sources for Minecraft server files are terrible, I’m sharin
 <hr>
 <p><span style="font-size:20px;"><strong>SPIGOT</strong></span></p>
 <p><span style="font-size:12px;">Official site: </span><a target="_blank" rel="noopener noreferrer" href="https://www.spigotmc.org/"><span style="font-size:12px;">https://www.spigotmc.org/</span></a></p>
+
+
+<hr>
+<p style="text-align:center;"><span style="font-size:20px;"><strong>ALL CATALOGS</strong></span></p>
+<p style="text-align:center;"><a href="https://mega.nz/folder/iVxCHDxI#0AKuT8i9ZA67OuTiNGs-_A">VANILLA</a> | <a href="https://mega.nz/folder/iFRk0DhK#nmCYFPkcnBn2g7zhTJxjuA">CRAFTBUKKIT</a> | <a href="https://mega.nz/folder/iU5ViJpb#9gvgNm-wKrjsllCKab8SjQ">SPIGOT</a> | <a href="https://mega.nz/folder/bcg1XJBZ#liBBvRKFzCufO7Zx9rdmnA">PAPER</a> | <a href="https://mega.nz/folder/LIYnmZiY#bFlBfCvjj3sXfHygYqt6rw">MCPC+</a></p>
