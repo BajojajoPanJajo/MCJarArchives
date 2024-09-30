@@ -33,4 +33,13 @@ Since the official sources for Minecraft server files are terrible, I’m sharin
 <a href="https://mega.nz/folder/iVQCVI6D#qRUFLAx-83lUL4crueZgXw">1.6.4</a> | 
 <a href="https://mega.nz/folder/7MolmbLb#95HrriwwC_EhHHLGTB5CKQ">1.7.2</a> | 
 <a href="https://mega.nz/folder/uQxFTKxA#_ptD6oUkOJwSEgmeIBB2Ow">1.7.5</a> | 
+<a href="https://mega.nz/folder/TU5HBArB#JVejEJWzlYlnMjSIGohkhA">1.7.9</a> | 
+<a href="https://mega.nz/folder/vMgXRCjA#wMOPCeYdIEeDWYq2uR3H3w">1.7.10</a> | 
+<a href="https://mega.nz/folder/aQBnCBJI#cbKVtZzBnQyYwMk3TN9LFw">1.8</a> | 
+<a href="https://mega.nz/folder/SFpynTrZ#I2k7Z_IJE0t-6xqeGLigTQ">1.8.3</a> | 
+<a href="https://mega.nz/folder/nE43QapB#mABFW7-cl9SYbF0oxf1wNg">1.8.6</a> | 
+<a href="https://mega.nz/folder/zMIRiB6C#WhTh7Kce0i5TSLoRtnwQaw">1.8.8</a>
 
+<hr>
+<p><span style="font-size:20px;"><strong>SPIGOT</strong></span></p>
+<p><span style="font-size:12px;">Official site: </span><a target="_blank" rel="noopener noreferrer" href="https://www.spigotmc.org/"><span style="font-size:12px;">https://www.spigotmc.org/</span></a></p>
